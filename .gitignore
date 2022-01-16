@@ -1,0 +1,5 @@
+.idea/
+__pycache__/
+debug.log
+shoes_database.sqlite
+Server.txt
