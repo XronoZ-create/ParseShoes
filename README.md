@@ -1,7 +1,7 @@
 # ParseShoes
 ![enter image description here](https://user-images.githubusercontent.com/70958549/149662741-462df545-74a8-435c-b545-3d139a090ced.png)
 
-Бот для парсинга [Basketshop](www.basketshop.ru). При появлении новой обуви указанного размера, отправляет сообщение в Telegram   
+Бот для парсинга на [Basketshop](https://basketshop.ru) обуви из раздела "скидки". При появлении новой обуви указанного размера, отправляет сообщение в Telegram   
 
 
 # Стек
